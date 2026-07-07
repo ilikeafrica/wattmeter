@@ -38,9 +38,17 @@ system language automatically.
 
 ## Install
 
-**Recommended** — download the notarized `WattMeter-x.y.dmg` from
+**Homebrew** (recommended):
+
+```bash
+brew install --cask ilikeafrica/tap/wattmeter
+```
+
+**Or manually** — download the notarized `WattMeter-x.y.dmg` from
 [Releases](../../releases), open it, and drag WattMeter to Applications.
-It runs in the menu bar (no Dock icon).
+
+It runs in the menu bar (no Dock icon). To launch at login, add it in
+**System Settings → General → Login Items**.
 
 ## Build from source
 
