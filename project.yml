@@ -7,8 +7,8 @@ options:
 
 settings:
   base:
-    MARKETING_VERSION: "1.1"
-    CURRENT_PROJECT_VERSION: "2"
+    MARKETING_VERSION: "1.1.1"
+    CURRENT_PROJECT_VERSION: "3"
     PRODUCT_BUNDLE_IDENTIFIER: com.targetdisplay.wattmeter
     # 유니버설(Apple Silicon + Intel)
     ARCHS: "$(ARCHS_STANDARD)"
