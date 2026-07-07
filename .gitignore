@@ -1,0 +1,12 @@
+# Build outputs
+/build/
+*.xcarchive
+*.dmg
+
+# Xcode user data (프로젝트 파일 자체는 커밋)
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# macOS
+.DS_Store

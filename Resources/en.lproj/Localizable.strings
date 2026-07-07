@@ -1,0 +1,29 @@
+/* WattMeter — English */
+"quit" = "Quit";
+
+"menubar.nobattery" = "No battery";
+"info.nobattery" = "No battery detected";
+
+"state.onbattery" = "On battery";
+"state.charging" = "Charging";
+"state.full" = "Fully charged";
+"state.notcharging" = "Not charging (AC)";
+"state.idle" = "idle";
+
+"label.battery" = "Battery";
+"label.tofull" = "Time to full";
+"label.toempty" = "Time to empty";
+"label.adapter" = "Adapter";
+"adapter.none" = "Not connected";
+"label.input" = "Input (adapter→)";
+"label.charge" = "Charge";
+"label.discharge" = "Discharge";
+"label.draw" = "System draw";
+"draw.na" = "N/A on Intel";
+"label.temp" = "Battery temp";
+"label.maxcap" = "Max capacity";
+"label.cycles" = "Cycles";
+
+"time.estimating" = "estimating";
+"time.hm" = "%dh %dm";
+"time.m" = "%dm";
