@@ -1,0 +1,29 @@
+/* WattMeter — 한국어 */
+"quit" = "종료";
+
+"menubar.nobattery" = "배터리 없음";
+"info.nobattery" = "배터리를 찾을 수 없습니다";
+
+"state.onbattery" = "배터리 사용 중";
+"state.charging" = "충전 중";
+"state.full" = "완충";
+"state.notcharging" = "충전 안 함(AC)";
+"state.idle" = "대기";
+
+"label.battery" = "배터리";
+"label.tofull" = "완충까지";
+"label.toempty" = "방전까지";
+"label.adapter" = "어댑터";
+"adapter.none" = "미연결";
+"label.input" = "입력(어댑터→)";
+"label.charge" = "충전";
+"label.discharge" = "방전";
+"label.draw" = "시스템 소비";
+"draw.na" = "Intel 미지원";
+"label.temp" = "배터리 온도";
+"label.maxcap" = "최대용량";
+"label.cycles" = "사이클";
+
+"time.estimating" = "계산 중";
+"time.hm" = "%d시간 %d분";
+"time.m" = "%d분";
